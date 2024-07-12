@@ -15,3 +15,9 @@ The project is broken down into the following steps:
     <li>  Load and preprocess the image dataset</li>
     <li> Train the image classifier on your dataset </li>
     <li> Use the trained classifier to predict image content </li> </ol>
+
+# Technologies Used:
+- **Python:** The project utilizes Python as the primary programming language for data preprocessing, analysis, and model development.
+- **Libraries:** Key Python libraries such as NumPy, pandas, scikit-learn, and Seaborn are employed for data manipulation, machine learning, and data visualization.
+- **Machine Learning:** Various machine learning algorithms are explored and compared to identify the most suitable model for predicting heart diseases.
+
