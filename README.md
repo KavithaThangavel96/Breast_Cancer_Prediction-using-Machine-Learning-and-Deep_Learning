@@ -14,7 +14,7 @@ The project is broken down into the following steps:
 <ol>
     <li>  Load and preprocess the image dataset</li>
     <li> Train the image classifier on your dataset </li>
-    <li> Use the trained classifier to predict image content </li> </ol>
+    <li> Use the trained classifier to predict Benign or Malignant </li> </ol>
 
 # Technologies Used:
 - **Python:** The project utilizes Python as the primary programming language for data preprocessing, analysis, and model development.
