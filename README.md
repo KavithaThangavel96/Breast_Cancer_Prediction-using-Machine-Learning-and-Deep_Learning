@@ -21,4 +21,5 @@ The project is broken down into the following steps:
 - **Libraries:** Key Python libraries such as NumPy, pandas, scikit-learn, and Seaborn are employed for data manipulation, machine learning, and data visualization.
 - **Machine Learning:** Various machine learning algorithms are explored and compared to identify the most suitable model for predicting heart diseases.
 - **Deep Learning:** Implement the model using TensorFlow, ensuring it is optimized for accuracy and efficiency.
+
 Early detection of Cancer is crucial for timely medical intervention, and this project demonstrates how data science and machine learning can contribute to healthcare by providing a valuable tool for identifying individuals at risk. The "Breast cancer Prediction" project exemplifies the practical application of data science skills in solving real-world health challenges
